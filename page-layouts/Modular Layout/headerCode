@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-GB" prefix="og: http://ogp.me/ns#">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="IPAZF7h_WEhD9_P8i2tp-wuGoW780ZLmj7-ajlX2gnA" />
+    <meta name="google-site-verification" content="bO1Yq4175en2T8lu-dhyJweN4NnItxhidtKWopclb54" />
+
+    <!-- Global Site Header -->
+    <t4 type="navigation" name="Global site header" id="22" />
+
+    <!-- Google Tag Manager -->
+    <t4 type="navigation" name="GTM1 header code" id="261" />
+    <title>
+        <?php
+            $title = <<< EOF
+            '<t4 type="meta" id="17" />';
+            EOF;
+    
+            $pattern = '/content="(.*)"/';
+    
+            preg_match_all($pattern, $title, $matches);
+        
+            if(isset($matches[1][0])) {
+                echo $matches[1][0];
+            } else {
+                echo '<t4 type="title" />';
+            }
+        
+        ?>
+    </title>
+</head>
+<body>
+    <div id="main-content" role="main">
