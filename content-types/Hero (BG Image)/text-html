@@ -1,1 +1,11 @@
-<h1>Hello</h1>
+<section class="section hero-bg-image">
+    <div class="section__inner">
+        <div class="hero-bg-image__image-container">
+            <img src="<t4 type='content' name='Background Image' output='normal' formatter='path/*' />" alt="<t4 type='content' name='Background Image' output='normal' formatter='image/description' />">
+        </div>
+        <div class="hero-bg-image__content">
+            <h1><t4 type="content" name="Heading" output="normal" modifiers="striptags,htmlentities" /></h1>
+            <p><t4 type="content" name="Body" output="normal" modifiers="striptags,htmlentities" /></p>
+        </div>
+    </div>
+</section>
