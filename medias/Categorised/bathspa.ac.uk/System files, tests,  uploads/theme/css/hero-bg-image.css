@@ -7,3 +7,8 @@
     width: 100%;
     height: 100%;
 }
+
+.hero-bg-image__content {
+    position: relative;
+    background-color: blue;
+}
