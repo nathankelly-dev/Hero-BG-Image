@@ -10,7 +10,13 @@
         "projectPath": "content-types/Hero (BG Image)/text-html"
       }
     ],
-    "pageLayouts": [],
+    "pageLayouts": [
+      {
+        "id": 140241,
+        "headerCode": "page-layouts/Modular Layout/headerCode",
+        "footerCode": "page-layouts/Modular Layout/footerCode"
+      }
+    ],
     "media": [
       {
         "id": 140239,
