@@ -1,0 +1,22 @@
+{
+  "environments": {
+    "Production": "4a6fa536-2b27-4bb0-b371-50580c2b2806",
+    "Development": "b85c2955-1f2d-4604-8d87-8c7f0d06394d"
+  },
+  "assets": {
+    "contentLayouts": [
+      {
+        "id": 140240,
+        "projectPath": "content-types/Hero (BG Image)/text-html"
+      }
+    ],
+    "pageLayouts": [],
+    "media": [
+      {
+        "id": 140239,
+        "description": "Hero BG Image CSS",
+        "projectPath": "medias/Categorised/bathspa.ac.uk/System files, tests,  uploads/theme/css/hero-bg-image.css"
+      }
+    ]
+  }
+}
