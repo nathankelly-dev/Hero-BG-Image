@@ -11,25 +11,7 @@
 
     <!-- Google Tag Manager -->
     <t4 type="navigation" name="GTM1 header code" id="261" />
-    <title>
-        <!-- <?php
-            $title = <<< EOF
-            '<t4 type="meta" id="17" />';
-            EOF;
-    
-            $pattern = '/content="(.*)"/';
-    
-            preg_match_all($pattern, $title, $matches);
-        
-            if(isset($matches[1][0])) {
-                echo $matches[1][0];
-            } else {
-                echo '<t4 type="title" />';
-            }
-        
-        ?> -->
-        <t4 type="title" />
-    </title>
+    <title>Hello</title>
 </head>
 <body>
     <div id="main-content" role="main">
