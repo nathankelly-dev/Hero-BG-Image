@@ -1,1 +1,9 @@
-/* Empty CSS */
+.hero-bg-image {
+    overflow: hidden;
+}
+
+.hero-bg-image__image-container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
