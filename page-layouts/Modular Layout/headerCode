@@ -16,6 +16,9 @@
     <!--CSS Overrides -->
     <t4 type="media" id="131341" formatter="css/*" />
 
+    <!--Typography -->
+    <t4 type="media" id="138475" formatter="css/*" />
+
     <!--Hero BG Image -->
     <t4 type="media" id="140239" formatter="css/*" />
     <title>
