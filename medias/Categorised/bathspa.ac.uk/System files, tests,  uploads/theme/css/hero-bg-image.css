@@ -23,6 +23,7 @@
     top: -11px;
     left: 1rem;
     z-index: 1;
+    padding-left: 10px;
 }
 
 .hero-bg-image__content {
@@ -35,6 +36,7 @@
 
 .hero-bg-image__content p {
     margin: unset;
+    margin-top: 0.5rem;
 }
 
 @media only screen and (min-width: 1024px) {
