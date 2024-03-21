@@ -22,3 +22,9 @@
 .hero-bg-image__content p {
     margin: unset;
 }
+
+@media only screen and (min-width: 1024px) {
+    .hero-bg-image__content {
+        padding: 1.5rem;
+    }
+}
