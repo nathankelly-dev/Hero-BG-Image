@@ -1,8 +1,4 @@
 /* Hero BG Image */
-.hero-bg-image {
-    margin-top: 100px;
-}
-
 .hero-bg-image__image-container {
     position: absolute;
     width: 100%;
@@ -40,6 +36,10 @@
 }
 
 @media only screen and (min-width: 1024px) {
+    .hero-bg-image {
+        margin-top: 100px;
+    }
+    
     .hero-bg-image__content {
         padding: 1.5rem;
     }
