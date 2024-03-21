@@ -1,4 +1,4 @@
-<section class="section hero-bg-image">
+<section class="section section--extra-padding hero-bg-image">
     <div class="section__inner">
         <div class="hero-bg-image__image-container">
             <img src="<t4 type='content' name='Background Image' output='normal' formatter='path/*' />" alt="<t4 type='content' name='Background Image' output='normal' formatter='image/description' />">
