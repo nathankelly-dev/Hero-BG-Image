@@ -17,6 +17,13 @@
     object-position: center;
 }
 
+.hero-bg-image .breadcrumbs {
+    position: absolute;
+    margin-bottom: unset;
+    top: -20px;
+    left: 1rem;
+}
+
 .hero-bg-image__content {
     position: relative;
     background-color: #1566A3;
