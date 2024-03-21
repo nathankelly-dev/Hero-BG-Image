@@ -11,6 +11,12 @@
     left: 0;
 }
 
+.hero-bg-image__image-container img {
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
 .hero-bg-image__content {
     position: relative;
     background-color: #1566A3;
