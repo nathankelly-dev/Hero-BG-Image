@@ -1,5 +1,6 @@
 <section class="section section--extra-padding hero-bg-image">
     <div class="section__inner">
+        <t4 type="navigation" name="Breadcrumbs" id="16" />
         <div class="hero-bg-image__image-container">
             <img src="<t4 type='content' name='Background Image' output='normal' formatter='path/*' />" alt="<t4 type='content' name='Background Image' output='normal' formatter='image/description' />">
         </div>
