@@ -1,6 +1,7 @@
 /* Hero BG Image */
 .hero-bg-image {
     overflow: hidden;
+    margin-top: 100px;
 }
 
 .hero-bg-image__image-container {
