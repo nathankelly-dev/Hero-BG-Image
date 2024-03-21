@@ -1,6 +1,5 @@
 /* Hero BG Image */
 .hero-bg-image {
-    overflow: hidden;
     margin-top: 100px;
 }
 
@@ -21,7 +20,7 @@
 .hero-bg-image .breadcrumbs {
     position: absolute;
     margin-bottom: unset;
-    top: -20px;
+    top: -11px;
     left: 1rem;
 }
 
