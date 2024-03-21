@@ -13,6 +13,8 @@
 
 .hero-bg-image__content {
     position: relative;
-    background-color: #4498CD;
+    background-color: #1566A3;
+    color: white;
     padding: 1rem;
+    max-width: 600px;
 }
