@@ -22,6 +22,12 @@
     <!-- Homepage styling -->
     <link rel="stylesheet" type="text/css" href="<t4 type="media" id="139600" formatter="path/*" />">
 
+    <!-- Interest Area Styling -->
+	<link rel="stylesheet" href='<t4 type="media" id="131792" formatter="path/*" />'>
+
+    <!-- Related Links Styling -->
+	<link rel="stylesheet" href='<t4 type="media" id="135374" formatter="path/*" />'>
+
     <!--Typography -->
     <t4 type="media" id="138475" formatter="css/*" />
     <title>
