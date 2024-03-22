@@ -76,6 +76,8 @@
     </footer>
     <!-- Homepage script -->
     <t4 type="media" id="139601" formatter="javascript/*" />
+    <!-- Image Carousel script -->
+    <t4 type="media" id="134832" formatter="javascript/*" />
     <t4 type="navigation" name="Partial - JavaScript footer" id="136" />
 </body>
 </html>
