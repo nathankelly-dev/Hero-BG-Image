@@ -21,6 +21,9 @@
 
     <!--Hero BG Image -->
     <t4 type="media" id="140239" formatter="css/*" />
+
+    <!-- Homepage styling -->
+    <link rel="stylesheet" type="text/css" href="<t4 type="media" id="139600" formatter="path/*" />">
     <title>
         <t4 type="title" />
     </title>
