@@ -28,8 +28,11 @@
     <!-- Related Links Styling -->
 	<link rel="stylesheet" href='<t4 type="media" id="135374" formatter="path/*" />'>
 
-          <!-- Heading Text Grid styling -->
-      <t4 type="media" id="136133" formatter="css/*" />
+    <!-- Heading Text Grid styling -->
+    <t4 type="media" id="136133" formatter="css/*" />
+
+    <!-- Image Carousel styling -->
+    <t4 type="media" id="134830" formatter="css/*" />
 
     <!--Typography -->
     <t4 type="media" id="138475" formatter="css/*" />
