@@ -4,9 +4,10 @@
         <div class="hero-bg-image__image-container">
             <img src="<t4 type='content' name='Background Image' output='normal' formatter='path/*' />" alt="<t4 type='content' name='Background Image' output='normal' formatter='image/description' />">
         </div>
-        <div class="hero-bg-image__content">
+        <div class="hero-bg-image__content" <t4 type='content' name='Background Colour' output='normal' display_field='value' />>
             <h1><t4 type="content" name="Heading" output="normal" modifiers="striptags,htmlentities" /></h1>
             <t4 type="content" name="Body" output="selective-output" process-format="true" format="<p class=&quot;p--large&quot;><t4 type=&quot;content&quot; name=&quot;Body&quot; output=&quot;normal&quot; modifiers=&quot;striptags,htmlentities&quot; /></p>" />
         </div>
     </div>
 </section>
+              
